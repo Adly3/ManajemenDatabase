@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "68399f23be91793d4c313a30"
+  },
+  "nim": "D0222007",
+  "nama": "Irmayanti",
+  "matkul": "Basis Data",
+  "nilai": 90,
+  "semester": 4
+},
+{
+  "_id": {
+    "$oid": "68399faabe91793d4c313a31"
+  },
+  "nim": "123457",
+  "nama": "Budi Hartono",
+  "matkul": "PBO",
+  "nilai": 75,
+  "semester": 4
+},
+{
+  "_id": {
+    "$oid": "68399faabe91793d4c313a32"
+  },
+  "nim": "123458",
+  "nama": "Citra Lestari",
+  "matkul": "AI",
+  "nilai": 90,
+  "semester": 5
+}]
