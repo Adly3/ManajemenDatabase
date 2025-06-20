@@ -1,0 +1,66 @@
+[{
+  "_id": {
+    "$oid": "68551c2b5cd8b07aba8fa231"
+  },
+  "pasien_id": "pasien:1",
+  "nama": "Andi Surya",
+  "diagnosa": "Demam",
+  "suhu": 38.5,
+  "obat": [
+    "Paracetamol"
+  ],
+  "kunjungan": 1
+},
+{
+  "_id": {
+    "$oid": "68551c9f5cd8b07aba8fa233"
+  },
+  "pasien_id": "pasien:2",
+  "nama": "Dewi Lestari",
+  "diagnosa": "Hipertensi",
+  "tekanan_darah": "150/100",
+  "obat": [
+    "Amlodipine",
+    "Captopril"
+  ],
+  "kunjungan": 2
+},
+{
+  "_id": {
+    "$oid": "68551cc95cd8b07aba8fa235"
+  },
+  "pasien_id": "pasien:3",
+  "nama": "Rudi Hartono",
+  "diagnosa": "Diabetes",
+  "gula_darah": 250,
+  "obat": [
+    "Metformin"
+  ],
+  "diet": true
+},
+{
+  "_id": {
+    "$oid": "68551cf65cd8b07aba8fa237"
+  },
+  "pasien_id": "pasien:4",
+  "nama": "Siti Aminah",
+  "diagnosa": "Infeksi Saluran Kemih",
+  "keluhan": "Nyeri saat buang air kecil",
+  "obat": [
+    "Antibiotik"
+  ],
+  "rawat_inap": false
+},
+{
+  "_id": {
+    "$oid": "68551d135cd8b07aba8fa239"
+  },
+  "pasien_id": "pasien:5",
+  "nama": "Bambang Setiawan",
+  "diagnosa": "Asma",
+  "terapi_nebulizer": true,
+  "obat": [
+    "Ventolin"
+  ],
+  "kunjungan": 3
+}]

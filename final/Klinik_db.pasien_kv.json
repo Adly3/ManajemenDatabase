@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "68551ac1f89a2d8fbbffe800"
+  },
+  "key": "pasien:1",
+  "value": "Andi Surya"
+},
+{
+  "_id": {
+    "$oid": "68551ac1f89a2d8fbbffe801"
+  },
+  "key": "pasien:2",
+  "value": "Dewi Lestari"
+},
+{
+  "_id": {
+    "$oid": "68551ac1f89a2d8fbbffe802"
+  },
+  "key": "pasien:3",
+  "value": "Rudi Hartono"
+},
+{
+  "_id": {
+    "$oid": "68551ac1f89a2d8fbbffe803"
+  },
+  "key": "pasien:4",
+  "value": "Siti Aminah"
+},
+{
+  "_id": {
+    "$oid": "68551ac1f89a2d8fbbffe804"
+  },
+  "key": "pasien:5",
+  "value": "Bambang Setiawan"
+}]
